@@ -1,11 +1,11 @@
-# smart_spraying_sytem
+# smart_dispensing_sytem
 A system that automatically dispenses liquid detergent to the lavatory incase the ph of ammonia is higher than normal.
 
 ## COMPONENTS
  - Ammonium sensor
  - Relay
- - esp32 micro-controller
- - lm117t  3.3V voltage regulator
+ - ESP32 micro-controller
+ - LM117T  3.3V voltage regulator
  
  
 
@@ -23,7 +23,7 @@ A system that automatically dispenses liquid detergent to the lavatory incase th
 - Breakdown voltage 300V 
 - Carry current 1.0A
 - Switch speed 1ms
-- Maximum switch voltage 70VDC
+- Maximum switch voltage 70V DC
 - Maximum power 20W
 
 
